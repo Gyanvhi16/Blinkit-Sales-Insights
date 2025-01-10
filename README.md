@@ -5,7 +5,7 @@ This project presents a comprehensive Power BI dashboard designed to analyze Bli
 
 
 ### **Key Performance Indicators (KPIs)**  
-The dashboard focuses on the following primary KPIs:  
+The dashboard highlights the following critical KPIs to provide a clear view of Blinkit's performance metrics: 
 
 1. **Total Sales**: The total revenue generated from all items sold, amounting to **$1.20M**.  
 2. **Average Sales**: The average revenue per sale, calculated at **$141**.  
