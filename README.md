@@ -1,10 +1,10 @@
-# Blinkit-Sales-Insights
+# Blinkit Sales Insights
 
-# Project Overview
+## Project Overview
 This project presents a comprehensive Power BI dashboard designed to analyze Blinkit's sales performance, customer satisfaction, and inventory distribution. The dashboard leverages key performance indicators (KPIs) and advanced visualizations to uncover actionable insights and identify opportunities for optimization.
 
 
-### **Key Performance Indicators (KPIs)**  
+## Key Performance Indicators (KPIs)
 The dashboard highlights the following critical KPIs to provide a clear view of Blinkit's performance metrics: 
 
 1. **Total Sales**: The total revenue generated from all items sold, amounting to **$1.20M**.  
