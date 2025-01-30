@@ -90,7 +90,7 @@ The Blinkit dashboard offers a detailed and interactive analysis of sales, outle
 
 
 
-### **Insights and Conclusions**  
+### **Insights & Conclusions**  
 
 1. **Impressive Sales Performance**:  
    - The platform demonstrates strong overall performance with total sales exceeding **$1.2M**, indicating robust customer engagement and revenue generation.
